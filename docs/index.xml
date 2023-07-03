@@ -13,8 +13,9 @@
       <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://llmreadinggroup.github.io/posts/week3-peft/</guid>
-      <description> Slides # Link here.
-Parameter Efficient Finetuning # </description>
+      <description> Slides # Author: Josh Author: Selwin
+TODO(add pdf here)
+Author: Aneesh Parameter Efficient Finetuning # </description>
     </item>
     
     <item>
@@ -23,8 +24,7 @@ Parameter Efficient Finetuning # </description>
       <pubDate>Sun, 25 Jun 2023 00:00:00 +0000</pubDate>
       
       <guid>https://llmreadinggroup.github.io/posts/week2-intruction-finetuning-dpo/</guid>
-      <description> Slides # Link here.
-Instruction Finetuning and DPO # </description>
+      <description> Slides # Author: Adi Instruction Finetuning and DPO # </description>
     </item>
     
     <item>
@@ -33,7 +33,7 @@ Instruction Finetuning and DPO # </description>
       <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
       
       <guid>https://llmreadinggroup.github.io/posts/week1-transformers/</guid>
-      <description> Slides # Test Introduction to transformers # </description>
+      <description>Slides # Author: Yonatan Introduction to transformers # $$ \text{{Attention}}(Q, K, V) = \text{{softmax}}\left(\frac{{QK^\intercal}}{\sqrt{d_k}}\right)V $$</description>
     </item>
     
   </channel>

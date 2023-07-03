@@ -6,6 +6,15 @@ description: Discussing various parameter-efficient finetuning methods.
 
 ## Slides
 
-Link here.
+Author: Josh
+<embed src="../../slides/03-peft.pdf" width="950" height="500" type="application/pdf">
+
+Author: Selwin
+
+TODO(add pdf here)
+
+Author: Aneesh
+<embed src="../../slides/03-LoRA.pdf" width="950" height="500" type="application/pdf">
+
 
 ## Parameter Efficient Finetuning
