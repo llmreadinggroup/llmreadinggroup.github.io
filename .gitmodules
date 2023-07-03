@@ -1,3 +1,0 @@
-[submodule "hugo-tufte"]
-  path = site/themes/hugo-themes
-  url = https://github.com/loikein/hugo-tufte
